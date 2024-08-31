@@ -1,5 +1,5 @@
 .text {
-    font-family: 'Roboto Mono', "Times New Roman", sans-serif;
+    font-family: 'SF Mono', 'Roboto Mono', monospace, "Times New Roman", sans-serif;
     text-align: center;
     font-weight: bold;
     font-size: 50px;
